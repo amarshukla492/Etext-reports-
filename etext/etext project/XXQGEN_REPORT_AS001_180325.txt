@@ -1,0 +1,66 @@
+CM.55006      US US OriOriEUR  
+925-112-00
+CM54160   20           Ea                  Ignition Plug                           US                           709            20           20           17827             
+CM.25006      US US OriOriANY  
+925-112-00
+CM22340   1500         Ea                  Gear                                    US 5.5          5.5          374.510327746471500         1500         17597             
+CM.25006      US US OriOriANY  
+          
+CM25653   15           Ea                  Fan                                     US 1200         1200         1.179707532401315           15           17798             
+CM.25006      US US OriOriANY  
+          
+CM29912   15           Ea                  Turbine                                 US 6000         6000         128.5244542760315           15           17798             
+CM.25006      US US OriOriANY  
+          
+CM24160   15           Ea                  Ignition Plug                           US .25          .25          2.782611735156215           15           17798             
+CM.25006      US US OriOriANY  
+          
+CM26878   15           Ea                  Exhaust Nozzle                          US 270          270          10.32524973597015           15           17798             
+CM.25006      US US OriOriANY  
+          
+CM23987   15           Ea                  O Ring                                  US .1           .1           .1460590278211215           15           17798             
+CM.25006      US US OriOriANY  
+          
+CM24605   15           Ea                  Rod                                     US 11           11           2.591611468005515           15           17798             
+CM.25006      US US OriOriANY  
+          
+CM27532   15           Ea                  Block                                   US 90           90           26.97972401085515           15           17798             
+CM.25006      US US OriOriANY  
+          
+CM24852   15           Ea                  Case                                    US 28           28           6.190655717649115           15           17798             
+CM.45006      US US OriOriANY  
+          
+CM44006   15           Ea                  Connecting Rod                          US 17           17           5.583948986699815           15           17798             
+CM.45006      US US OriOriANY  
+          
+CM42773   15           Ea                  Closing Ring                            US 2            2            2.629062500780215           15           17798             
+CM.45006      US US OriOriANY  
+          
+CM42883   15           Ea                  Cylinder Backcap                        US 5            5            2.262042379588615           15           17798             
+CM.45006      US US OriOriANY  
+          
+CM42810   15           Ea                  Oil Reverse Ring                        US 3            3            2.677748843387215           15           17798             
+CM.45006      US US OriOriANY  
+          
+CM43669   15           Ea                  Press Valve Weight                      US 45           45           16.44474849134715           15           17798             
+CM.45006      US US OriOriANY  
+          
+CM42743   15           Ea                  Piston Valve Weight Type B              US .8           .8           19.18616409045115           15           17798             
+CM.45006      US US OriOriANY  
+          
+CM43514   15           Ea                  Adjustment Axle                         US 95           95           19.87900819678215           15           17798             
+CM.45006      US US OriOriANY  
+          
+CM45927   15           Ea                  Rod                                     US 60           60           2.617827190947815           15           17798             
+CM.45006      US US OriOriANY  
+          
+CM44984   15           Ea                  Closing Ring                            US 4            4            11.05179977179815           15           17798             
+CM.45006      US US OriOriANY  
+          
+CM43434   15           Ea                  Cooling Unit for Driefort Pump          US 190          190          9.351522883829315           15           17798             
+1.1.5006      US US OriOriANY  
+          
+CM42404   1            Ea                  Hexagonal Nut                           US .8           .8           .099869420732391            1            17534             
+C1.15006      US US OriOriUSD  
+10271-1762
+WM107     25           Ea                  Multi Function Printer                  US 12           12           6293.75        25           25           3005              
